@@ -7,11 +7,7 @@ import java.io.ObjectOutputStream;
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Scanner;
-// Demo
-w 
-// THis is new line 
 
-// Adding new line in the local file  (this is the line added in local)
 @SuppressWarnings("serial")
 class Employee implements Serializable{
  
